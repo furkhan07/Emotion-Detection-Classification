@@ -17,5 +17,15 @@ Technologies Used
 - Visualization: Chart.js / Matplotlib  
 - Styling: CSS Modules or styled-components  
 
+🔧 Getting Started
+
+Follow these steps to run the application locally:
+npm install
+npm start
+
+-In a new terminal
+cd server
+python app.py
+
 
 
