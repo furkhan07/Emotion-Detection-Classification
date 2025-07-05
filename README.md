@@ -20,12 +20,12 @@ Technologies Used
 🔧 Getting Started
 
 Follow these steps to run the application locally:
-npm install
-npm start
+-npm install
+-npm start
 
 -In a new terminal
-cd server
-python app.py
+-cd server
+-python app.py
 
 
 
